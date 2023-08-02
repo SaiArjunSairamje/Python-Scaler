@@ -1,4 +1,4 @@
-Python Libraries-Scaler
+Python Libraries
 ***
 
 (1) NumPy          
