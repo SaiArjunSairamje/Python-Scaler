@@ -3,5 +3,4 @@ Python Libraries
 
 (1) NumPy          
 (2) Pandas          
-(3) Matplotlib          
-(4) Seaborn          
+(3) Data Visualization - Matplotlib, Seaborn          
