@@ -7,7 +7,7 @@ NumPy stands for "Numerical Python." It is a powerful library for numerical and 
 (2) Pandas        
 Pandas is a library for data manipulation and analysis in Python. It provides data structures like DataFrames and Series, which are designed to handle and analyze structured data, such as tabular data from spreadsheets or databases. Pandas allow you to load, clean, filter, transform, and aggregate data with ease, making it a go-to tool for data-wrangling tasks. Pandas is a library for data manipulation and analysis in Python. It provides data structures like DataFrames and Series, which are designed to handle and analyze structured data, such as tabular data from spreadsheets or databases. Pandas allow you to load, clean, filter, transform, and aggregate data with ease, making it a go-to tool for data-wrangling tasks.
 
-(3) Matplotlib
+(3) Matplotlib               
 Matplotlib is a plotting library in Python that allows you to create various types of static, interactive, and animated visualizations. It provides a flexible and straightforward way to generate publication-quality plots, charts, histograms, scatter plots, and more. Matplotlib is highly customizable, making it suitable for data exploration, analysis, and presentation.
 
 (4) Seaborn      
