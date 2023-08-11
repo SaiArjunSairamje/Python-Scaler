@@ -1,5 +1,9 @@
 Python Libraries
 ***
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
 
 (1) NumPy          
 NumPy stands for "Numerical Python." It is a powerful library for numerical and scientific computing in Python. NumPy provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays efficiently. It is the fundamental building block for many other scientific computing libraries in Python.
